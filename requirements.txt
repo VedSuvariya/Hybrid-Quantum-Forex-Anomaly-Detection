@@ -1,0 +1,8 @@
+torch>=2.0.0
+qiskit>=0.44.0
+qiskit-machine-learning
+pandas
+numpy
+matplotlib
+scikit-learn
+yfinance
