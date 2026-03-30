@@ -144,19 +144,6 @@ All variational quantum circuit computations are performed using Qiskit's statev
 
 ---
 
-## Citation
-
-If you use this code or build upon this work, please cite:
-
-```
-@article{suvariya2024cnnvqc,
-  title     = {Multi-Scale Volatility Anomaly Detection in USD/JPY Markets 
-               via a Hybrid CNN–Variational Quantum Circuit},
-  author    = {Suvariya, Ved},
-  year      = {2024},
-  note      = {Manuscript submitted for peer review}
-}
-```
 
 ---
 
